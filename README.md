@@ -29,6 +29,9 @@ the node’s key.
 3. The left and right subtree each must also be a binary search tree. In this
 project a Search tree with 6 childs is used.
 
+Here is the algorithm of the code:
+![img1](https://user-images.githubusercontent.com/50228728/96329821-fbfbe080-106d-11eb-90d9-3adf19e25aba.PNG)
+
 
 
 Data structure used: Binary Search Tree
