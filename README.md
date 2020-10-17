@@ -32,6 +32,13 @@ project a Search tree with 6 childs is used.
 Here is the algorithm of the code:
 ![img1](https://user-images.githubusercontent.com/50228728/96329821-fbfbe080-106d-11eb-90d9-3adf19e25aba.PNG)
 
+Have a look at its working:
+1. Adding the data by opening the data stored in notepad
+![img2](https://user-images.githubusercontent.com/50228728/96329823-04ecb200-106e-11eb-8e2b-8fc6ad6e1bb7.PNG)
+2. Executing the program
+![img3](https://user-images.githubusercontent.com/50228728/96329825-0a49fc80-106e-11eb-9a42-69e69755c59c.PNG)
+![img4](https://user-images.githubusercontent.com/50228728/96329827-11710a80-106e-11eb-9dd2-5842a55a700c.PNG)
+
 
 
 Data structure used: Binary Search Tree
